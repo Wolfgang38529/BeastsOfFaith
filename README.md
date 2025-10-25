@@ -1,3 +1,2 @@
-Hello, Git!
-# BeastsOfFaith
+Hello, Git!!!
 # BeastsOfFaith
